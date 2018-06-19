@@ -8,3 +8,5 @@ npm install -g @oracle/ojet-cli
 after that in the project folder run the following commands:
 ojet build
 ojet serve
+
+screencast link: http://youtu.be/LZiIQ47SHoE?hd=1
